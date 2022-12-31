@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Feb 25 13:38:48 2022
+# Process ID: 19296
+# Current directory: C:/Users/Vking/Desktop/ECE3300L/Lab_5/Lab_5.runs/synth_1
+# Command line: vivado.exe -log lab5.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab5.tcl
+# Log file: C:/Users/Vking/Desktop/ECE3300L/Lab_5/Lab_5.runs/synth_1/lab5.vds
+# Journal file: C:/Users/Vking/Desktop/ECE3300L/Lab_5/Lab_5.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lab5.tcl -notrace

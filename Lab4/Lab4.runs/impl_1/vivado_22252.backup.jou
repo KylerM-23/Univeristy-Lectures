@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Feb 18 17:27:19 2022
+# Process ID: 22252
+# Current directory: C:/Users/Vking/Desktop/ECE3300L/Lab4/Lab4.runs/impl_1
+# Command line: vivado.exe -log Lab4.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Lab4.tcl -notrace
+# Log file: C:/Users/Vking/Desktop/ECE3300L/Lab4/Lab4.runs/impl_1/Lab4.vdi
+# Journal file: C:/Users/Vking/Desktop/ECE3300L/Lab4/Lab4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Lab4.tcl -notrace
